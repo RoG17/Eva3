@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: url("../Imagenes/fondo.jpg");
+    color: #fff;
+    padding: 0 1.5em;
+} 
+
+.titulo {
+    color: #fff;
+}
+
+#subtitulo {
+    color: #fff;
+}
+
+#contenido {
+    background: rgba(33, 33, 33, 0.2);
+    backdrop-filter: blur(1px);
+    border: 2px;
+}
+
+#nombre {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#nombre::placeholder {
+    color:white;
+}
+
+#email {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#email::placeholder {
+    color:white;
+}
+
+#password {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#password::placeholder {
+    color:white;
+}
+
+#cpassword {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#cpassword::placeholder {
+    color:white;
+}
+
+#direccion {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#direccion::placeholder {
+    color:white;
+}
+
+#Comuna {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+
+#Comuna::placeholder {
+    color:white;
+}
+
+#telefono {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#telefono::placeholder {
+    color:white;
+}
+
+#pag_web {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#pag_web::placeholder {
+    color:white;
+}
+
+#aficiones {
+    border: none;
+    border-radius: 30px;
+    background: rgb(255, 255, 255, 0.2);
+    outline: none;
+    color: #fff;
+}
+
+#aficiones::placeholder {
+    color:white;
+}
+
+#acp {
+    color: #fff;
+}
